@@ -22,7 +22,7 @@ This is a Vencord *userplugin* (source-only, not on the plugin store), so it nee
    ```
 2. **Drop this plugin in**: copy this whole folder into `src/userplugins/` so the path is `src/userplugins/FakeDeafenDetector/index.tsx` (and `settings.ts` next to it).
    ```
-   git clone https://github.com/<your-username>/Vencord-FakeDeafenDetector src/userplugins/FakeDeafenDetector
+   git clone https://github.com/nanda070/Vencord-FakeDeafenDetector src/userplugins/FakeDeafenDetector
    ```
    (or just copy/paste the folder by hand — either works, it doesn't need to be a git repo)
 3. **Build and inject**:
